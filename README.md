@@ -16,14 +16,10 @@ Disclaimer: The dataset for this competition contains text that may be considere
 ## Evaluation
 Submissions are evaluated using F1 between the predicted and expected answers.<br>
 F1 is calculated as follows:
+F_1 = 2 * \frac{precision * recall}{precision + recall}
 
-<img src="http://latex.codecogs.com/gif.latex?\F_1 = 2 * \frac{precision * recall}{precision + recall}
-" />
+![](http://latex.codecogs.com/gif.latex?\F_1 = 2 * \frac{precision * recall}{precision + recall})
 
-作者：知乎用户
-链接：https://www.zhihu.com/question/26887527/answer/43166739
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ## Acknowledgments
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
