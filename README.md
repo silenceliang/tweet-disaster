@@ -12,6 +12,14 @@ In this competition, you’re challenged to build a machine learning model that 
 
 Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.
 
+
+## Evaluation
+Submissions are evaluated using F1 between the predicted and expected answers.<br>
+F1 is calculated as follows:
+
+F_1 = 2 * \frac{precision * recall}{precision + recall}
+
+
 ## Acknowledgments
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
