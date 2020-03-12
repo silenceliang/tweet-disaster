@@ -16,9 +16,7 @@ Disclaimer: The dataset for this competition contains text that may be considere
 ## Evaluation
 Submissions are evaluated using F1 between the predicted and expected answers.<br>
 F1 is calculated as follows:
-```math
-F_1 = 2 * \frac{precision * recall}{precision + recall}
-```
+$$ F_1 = 2 * \frac{precision * recall}{precision + recall} $$
 
 
 ## Acknowledgments
